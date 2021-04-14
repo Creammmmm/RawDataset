@@ -44,6 +44,10 @@ Most downsampling methods have two versions except Raw-RGBG. You could download 
 
 ### Baidu Netdisk
 
+**Link:**  https://pan.baidu.com/s/1D5QZJ6IFJb2BYBvLzO_Htg
+
+**Code:**  o5w5
+
 **Link:**  https://pan.baidu.com/s/1Ljb1uwly-lLy4gkO7KM6Xg
 
 **Code:**  n1ec
